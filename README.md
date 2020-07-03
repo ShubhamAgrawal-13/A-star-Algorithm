@@ -1,3 +1,3 @@
 # A-star-Algorithm
 
-!(index.html)
+[index.html]
