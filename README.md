@@ -1,3 +1,3 @@
 # A-star-Algorithm
 
-!(index.html)
+link: index.html
